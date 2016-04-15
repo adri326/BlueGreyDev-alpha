@@ -1,0 +1,7 @@
+User-agent: *
+
+Disallow: /OffTube/
+
+Disallow: /Allemand/
+
+Disallow: /connectpage/

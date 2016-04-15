@@ -1,0 +1,1 @@
+<?php session_start; $pagen = "Laurine on BlueGreyDev"; $pseudog = "Laurine"; include("../../userspass.php"); include("../starter.php"); dorea("activity/"); ?>

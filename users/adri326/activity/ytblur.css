@@ -1,0 +1,9 @@
+.video-stream, .ytp-thumbnail-overlay-image {
+	filter: blur(200px);
+}
+.yt-uix-simple-thumb-related, .yt-thumb:not(.g-hovercard):not(.yt-thumb-20):not(.yt-masthead-user-icon):not(#yt-masthead-account-picker) {
+	filter: blur(8px);
+}
+#c4-header-bg-container, a.videowall-still > div, video {
+	filter: blur(16px);
+}

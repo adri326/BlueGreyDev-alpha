@@ -1,0 +1,1 @@
+<?php session_start; $pagen = "nklink on GrayDev"; $pseudog = "nklink"; include("../../userspass.php"); include('../starter.php'); dorea("activity/"); ?>
